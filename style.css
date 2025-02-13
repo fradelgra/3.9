@@ -1,0 +1,54 @@
+.negro {
+    color: black;
+}
+
+.red {
+    color: red;
+}
+
+.amarillo {
+    color: yellow;
+}
+
+.verde {
+    color: green;
+}
+
+.morado {
+    color: purple;
+}
+
+.naranja {
+    color: orange;
+}
+
+.azul {
+    color: blue;
+}
+
+.azulclaro {
+    color: lightblue;
+}
+
+header.fondo {
+    background-color: lightblue;
+    text-align: center;
+} 
+
+.etiqueta{
+    background-color: azure;
+}
+
+.caja {
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+
+    /* Hace que el comportamiento de la clase sea de bloque, comenta la linea de abajo para ver diferencia de span y div */
+    display: block;
+}
+
+footer {
+    background-color: lightblue;
+    text-align: center;
+}
